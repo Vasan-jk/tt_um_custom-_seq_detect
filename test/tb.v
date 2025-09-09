@@ -6,7 +6,7 @@
   // Wire up the inputs and outputs:
  `timescale 1ns/1ps
 
-module tb_adaptive_neuron;
+module tb;
 
     reg        clk;
     reg        rst_n;
